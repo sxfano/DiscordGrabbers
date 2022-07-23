@@ -1,5 +1,5 @@
 # DiscordGrabbers
-Grab ip/tokens through this script
+Grab tokens through this script
 Discord,Discord PTB,Discord Canary,Google Chrome,Opera,Brave,Yandex
 ---
 

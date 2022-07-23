@@ -14,7 +14,7 @@ Make sure to have installed `Python`
 cd (path to the file)
 ```
 ```sh
-pip install requests / datetime / dhooks
+pip install requests 
 ```
 ```sh
 Add discord webhook in 'WEBHOOK HERE'

